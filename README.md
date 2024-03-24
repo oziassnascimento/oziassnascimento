@@ -9,7 +9,7 @@ Entusiasta da tecnologia e apaixonado por resolver problemas complexos. Comprome
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oziassnascimento@gmail.com)
 
 ![Ozz GitHub stats](https://github-readme-stats.vercel.app/api?username=ozias777&show_icons=true&theme=transparent)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozias777&layout=compact)
 ### Tecnologias que domino ou estou aprendendo a dominar 😎
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
