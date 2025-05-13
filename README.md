@@ -8,8 +8,8 @@ Entusiasta da tecnologia e apaixonado por resolver problemas complexos. Comprome
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oziassnascimento/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oziassnascimento@gmail.com)
 
-![Ozz GitHub stats](https://github-readme-stats.vercel.app/api?username=ozias777&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozias777&layout=compact)
+![Ozz GitHub stats](https://github-readme-stats.vercel.app/api?username=oziassnascimento&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oziasnascimento&layout=compact)
 ### Tecnologias que domino ou estou aprendendo a dominar 😎
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
